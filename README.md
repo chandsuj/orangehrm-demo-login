@@ -19,9 +19,13 @@
 - Test Design Techniques: Boundary, Equivalence Partitioning
 - Reporting: Excel, Word, JIRA 
 
+
 ## 📁 Folder Structure
 
-See `TestPlan/`, `TestCases/`, `BugReports/` for documents and execution results.
+- `TestPlan/` — Test Plan documents 
+- `TestCases/` — Test case documents
+- `BugReports/` — Defect logs and reports
+- `Screenshots/` — Visual evidence of bugs
 
 ---
 
