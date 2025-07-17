@@ -22,9 +22,9 @@
 
 ## 📁 Folder Structure
 
-- `TestPlan/` — Test Plan documents 
-- `TestCases/` — Test case documents
-- `BugReports/` — Defect logs and reports
+- `Test_Plan/` — Test Plan documents 
+- `Test_Design/` — Test conditions and Test case documents
+- `Bug_Reports/` — Defect logs and reports
 - `Screenshots/` — Visual evidence of bugs
 
 ## How to Use This Repo
