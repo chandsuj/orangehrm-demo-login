@@ -6,7 +6,7 @@
 
 ## 📄 Contents
 
-- Test Plan (Functional, UI, Cross-browser, Negative)
+- Test Plan 
 - Test Cases for login module
 - Defect Reports
 - Screenshots of bug evidence
